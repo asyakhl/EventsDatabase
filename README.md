@@ -1,4 +1,4 @@
-# Athletic Events scheduling Database and Its Entity Relationship Diagram (ERD)
+# Athletic Events Scheduling Database and Its Entity Relationship Diagram (ERD)
 
 ### Introduction
 
