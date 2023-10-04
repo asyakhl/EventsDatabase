@@ -7,4 +7,4 @@ This is an anthletics events database consisting of 8 tables and their ERD. The 
 
 ### Events Entity Relationship Diagram
 
-<img src="/ERD/ERD.png" width="400">
+<img src="/ERD/ERD.png" width="600">
