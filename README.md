@@ -8,3 +8,21 @@ This is the anthletics events database consisting of 8 tables and their ERD. The
 ### Events Entity Relationship Diagram  via **Visual Paradigm**
 
 <img src="/ERD/ERD.png" width="800">
+
+# Miscellaneous: ERDs for Other Databases
+
+### Expense Reports Entity Relationship Diagram  via **Visual Paradigm**
+
+<img src="/ERD/ExpenseReportErd.png" width="800">
+
+### Home Purchase Entity Relationship Diagram  via **Visual Paradigm**
+
+<img src="/ERD/HomePurchaseErd.png" width="800">
+
+### Order Placement Relationship Diagram  via **Visual Paradigm**
+
+<img src="/ERD/OrderPlacementErd.png" width="800">
+
+### Vehicle Purchase Relationship Diagram  via **Visual Paradigm**
+
+<img src="/ERD/VehiclePurchaseErd.png" width="800">
